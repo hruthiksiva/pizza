@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita",
+      "image": "assets/images/pizzas/1.jpeg",
+      "price": 199,
+      "description": "Classic delight with 100% real mozzarella cheese."
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "image": "assets/images/pizzas/1.jpeg",
+      "price": 249,
+      "description": "A classic American taste loaded with pepperoni."
+    },
+    {
+      "id": 3,
+      "name": "Veggie Supreme",
+      "image": "assets/images/pizzas/1.jpeg",
+      "price": 229,
+      "description": "Loaded with capsicum, onions, corn & mushrooms."
+    },
+    {
+      "id": 4,
+      "name": "Cheese Burst",
+      "image": "assets/images/pizzas/1.jpeg",
+      "price": 259,
+      "description": "Overflowing cheese in every bite!"
+    },
+    {
+      "id": 5,
+      "name": "BBQ Chicken",
+      "image": "assets/images/pizzas/1.jpeg",
+      "price": 269,
+      "description": "Smoky BBQ chicken with spicy jalapenos."
+    }
+  ]
+  
